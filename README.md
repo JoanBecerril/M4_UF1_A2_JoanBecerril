@@ -36,4 +36,4 @@
 
 8. Flujo de trabajo (navegador, petición, servidor y respuesta):
 
-[Img1](img/IMG1.png)
+![Img1](img/IMG1.png)
